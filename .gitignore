@@ -1,0 +1,18 @@
+# Byte-compiled Python files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environment folders
+venv/
+env/
+
+# Environment variables (sensitive data)
+.env
+
+# macOS system files
+.DS_Store
+
+# IDE/editor folders (optional)
+.vscode/
+.idea/
